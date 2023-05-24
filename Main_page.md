@@ -1,5 +1,5 @@
-#SoundBoard
-##Memes
+# SoundBoard
+## Memes
 
-> :Buttons
-> > :Button label=GitHub, url=https://github.com
+:Buttons
+:Button label=GitHub, url=https://github.com
